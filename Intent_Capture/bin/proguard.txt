@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:8
+-keep class com.mma.androidlabtest.Main { <init>(...); }
+
